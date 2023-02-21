@@ -1,0 +1,72 @@
+{
+    "teams":[
+        {
+            "teamName": "New York Brokers",
+            "color1": "#61ACBC",
+            "color2": "#7B35EA",
+            "bowlingRating": -5
+        },
+        {
+            "teamName": "London Kings",
+            "color1": "#86EA35",
+            "color2": "#C51B39",
+            "bowlingRating": -4
+        },
+        {
+            "teamName": "Melbourne Kangaroos",
+            "color1": "#C5951B",
+            "color2": "#AAFF00",
+            "bowlingRating": -3
+        },
+        {
+            "teamName": "Pretoria Diamonds",
+            "color1": "#6CA5DB",
+            "color2": "#D5C5CE",
+            "bowlingRating": -2
+        },
+        {
+            "teamName": "Mumbai Maharajas",
+            "color1": "#B1FF00",
+            "color2": "#007EFF",
+            "bowlingRating": -1
+        },
+        {
+            "teamName": "Lahore Lions",
+            "color1": "#FF000F",
+            "color2": "#FFFFFF",
+            "bowlingRating": 0
+        },
+        {
+            "teamName": "Dhaka Dancers",
+            "color1": "#B405AA",
+            "color2": "#AFA2AA",
+            "bowlingRating": 1
+        },
+        {
+            "teamName": "Colombo Clowns",
+            "color1": "#DD023C",
+            "color2": "#02DDAB",
+            "bowlingRating": 2
+        },
+        {
+            "teamName": "Kingston Kayaks",
+            "color1": "#049947",
+            "color2": "#854112",
+            "bowlingRating": 3
+        },
+        {
+            "teamName": "Wellington Wallabies",
+            "color1": "#0C0101",
+            "color2": "#18DDBC",
+            "bowlingRating": 4
+        },
+        {
+            "teamName": "Tamil Thalas",
+            "color1": "#009CEE",
+            "color2": "#909496",
+            "bowlingRating": 5
+        }
+
+
+    ]
+}
